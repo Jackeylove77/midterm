@@ -1,7 +1,7 @@
 #include <stdio.h>
 int main()
 {
-    char str[1000];
+    char str[51];
     int i,num=0,word=0;
     char c;
     gets(str);
